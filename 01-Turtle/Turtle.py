@@ -1,7 +1,7 @@
 from turtle import *
 import turtle
 
-#Driehoek
+#Radioactive ding
 turtle.bgcolor("white")
 turtle.pencolor("green")
 turtle.fillcolor("green")
